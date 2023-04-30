@@ -3,3 +3,5 @@ gitme.sh
 .DS_Store
 .env
 .json
+node_modules
+package-lock.json
