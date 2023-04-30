@@ -1,5 +1,5 @@
 query {
-  users {
+    user(id: 1) {
     id
     name
     email
